@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Jacchye
 - 👀 I’m interested in data
-- 🌱 I’m currently learning python, machine learning at NTU. 
+- 🌱 I’m currently learning python, R, SQL, Tableau and machine learning at NTU. 
+- <3 My first love is excel. 
